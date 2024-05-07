@@ -9,3 +9,6 @@
 
 # AIML-2024
 [LAB-04](https://github.com/DayyalaPranay/demo3.git)
+
+# AIML-2024
+[LAB-05](https://github.com/DayyalaPranay/demo3.git)
